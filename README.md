@@ -42,12 +42,12 @@ test-vscode/
 *En esta captura se puede observar cómo el Testing Explorer de VS Code detecta y marca en verde todos los tests del proyecto.*
 
 ### 2️⃣ Ejecución por CodeLens
-![Uso de CodeLens](./TestCodelens.png) 
-                 
+![Uso de CodeLens](./TestCodelens.png)                  
 *Demostración de la funcionalidad CodeLens para lanzar pruebas individuales directamente sobre el código fuente.*
 
 ### 3️⃣ Depuración paso a paso (Debugger)
 ![Uso del Debugger](./TestDebugger.png)
+
 *Captura del proceso de depuración, mostrando el punto de interrupción (breakpoint) y la inspección de variables en tiempo real.*
 
 ## 🛠️ Entorno Técnico
