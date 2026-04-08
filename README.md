@@ -1,12 +1,12 @@
-# 🧮 Proyecto: Calculadora de Riesgo (DAM)
+# Proyecto: Calculadora de Riesgo (DAM)
 
 ![Java](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk)
 ![Maven](https://img.shields.io/badge/Maven-3.6.3-C71A36?style=for-the-badge&logo=apache-maven)
 ![JUnit 5](https://img.shields.io/badge/JUnit-5.10-25A162?style=for-the-badge&logo=junit5)
 
-Este proyecto forma parte de la práctica del módulo **Entornos de Desarrollo**, enfocada en la implementación de un flujo de trabajo profesional utilizando **JUnit 5** y **Maven** en Visual Studio Code.
+Este proyecto está enfocado en la implementación de un flujo de trabajo profesional utilizando **JUnit 5** y **Maven** en Visual Studio Code.
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Gestión de dependencias**: Configuración mediante `pom.xml` optimizada para el motor de JUnit 5.
 * **Lógica de Negocio**: Evaluación dinámica de perfiles de riesgo basada en la edad.
@@ -37,9 +37,17 @@ test-vscode/
 | `testLimiteDieciocho` | Verificación de frontera en la mayoría de edad | ✅ |
 
 ### ✅ Evidencia de ejecución (Testing Explorer)
-| Testing Explorer (Matraz) | Ejecución CodeLens | Depuración (Debugger) |
-| :---: | :---: | :---: |
-| ![Matriz](./TestMatriz.png) | ![Codelens](./TestCodelens.png) | ![Debugger](./TestDebugger.png) |
+### 1️⃣ Testing Explorer (El "Matraz")
+![Vista del Matraz](./TestMatraz.png)
+*En esta captura se puede observar cómo el Testing Explorer de VS Code detecta y marca en verde todos los tests del proyecto.*
+
+### 2️⃣ Ejecución por CodeLens
+![Uso de CodeLens](./TestCodelens.png)
+*Demostración de la funcionalidad CodeLens para lanzar pruebas individuales directamente sobre el código fuente.*
+
+### 3️⃣ Depuración paso a paso (Debugger)
+![Uso del Debugger](./TestDebugger.png)
+*Captura del proceso de depuración, mostrando el punto de interrupción (breakpoint) y la inspección de variables en tiempo real.*
 
 ## 🛠️ Entorno Técnico
 
