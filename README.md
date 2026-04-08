@@ -37,9 +37,9 @@ test-vscode/
 | `testLimiteDieciocho` | Verificación de frontera en la mayoría de edad | ✅ |
 
 ### ✅ Evidencia de ejecución (Testing Explorer)
-![Test matriz](./TestMatriz.png)
-| ![Test Codelens](./TestCodelens.png) 
-| ![Test Debugger](./TestDebugger.png) |
+| Testing Explorer (Matraz) | Ejecución CodeLens | Depuración (Debugger) |
+| :---: | :---: | :---: |
+| ![Matriz](./TestMatriz.png) | ![Codelens](./TestCodelens.png) | ![Debugger](./TestDebugger.png) |
 
 ## 🛠️ Entorno Técnico
 
