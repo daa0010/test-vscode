@@ -23,6 +23,6 @@ public class CalculadoraRiesgoTest {
 
     @Test
     void testLimiteDieciocho() {
-        assertEquals("Joven", calc.evaluarEdad(17));
+        assertEquals("Joven", calc.evaluarEdad(18));
     }
 }
