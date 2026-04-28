@@ -23,7 +23,7 @@ test-vscode/
 │   └── test/java/entornos/  # Pruebas: CalculadoraRiesgoTest.java
 ├── pom.xml                  # Configuración de Maven y JDK 25
 ├── README.md                # Documentación del proyecto
-├── TestMatriz.png           # Captura: Testing Explorer (El "Matraz")
+├── TestMatraz.png           # Captura: Testing Explorer (El "Matraz")
 ├── TestCodelens.png         # Captura: Ejecución individual por CodeLens
 └── TestDebugger.png         # Captura: Punto de interrupción y depuración
 ```
